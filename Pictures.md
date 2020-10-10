@@ -41,7 +41,7 @@
 
 		<p>Roll Race</p>
 <br>
-			<img src="https://thumbs.gfycat.com/SilverTerribleLangur-mobile.mp4">
+			<img src="http://www.dragtimes.com/blog/wp-content/uploads/2017/04/Door-to-Door-Roll-Racing-Chevy-vs.-Ford.jpg">
 <br>
 
 		<p>Turbo Charger</p>
@@ -51,22 +51,20 @@
 
 		<p>Centrifugal Supercharger</p>
 <br>
+
 			<img src="https://cdn.shopify.com/s/files/1/0780/8575/products/03-04_350z_Underhood_1741f200-fb83-4c35-9de6-45ae03293111_1024x1024.jpg?v=1509136165">
-<br>
-
-		<p>Twin Screw Blower</p>
-<br>
-			<img src="https://thumbs.gfycat.com/InsecureIlliterateKinkajou-mobile.mp4">
-<br>
-
-		<p>Roots Blower</p>
-<br>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Roots_blower_-_2_lobes_-_with_depth.gif:>
 <br>
 
 		<p>Nitrous</p>
 <br>
-		<img src="https://i.imgur.com/Bx7caMi.gif">
+			<img src="http://speedhunters-wp-production.s3.amazonaws.com/wp-content/uploads/2017/06/27221311/SH_8265.jpg" width="1000" height="700">
 <br>
-
+		<p> Roots Blower</p>
+<br>
+			<img src="http://kennebell.net/wp-content/uploads/2017/09/01b-Twin-Screw-vs-Roots-1200-600.jpg">
+<br>
+		<p> Twin Screw Blower </p>
+<br>
+			<img src="http://kennebell.net/wp-content/uploads/2017/09/01a-Twin-Screw-vs-Roots-1200-600.jpg">
+<br>
 	</body>

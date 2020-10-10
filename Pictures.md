@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Pictures</title>
+		<title>Text Page</title>
 	</head>
 	<style>
 		body{background-color:#2f4f4f; text-align:center;}

@@ -1,8 +1,14 @@
-body {background-color:#001a00;}
+.topnav{Text-Align:center; padding:50px; text-shadow: 2px 2px 5px red; font-size:2vw;} /* Navagation top of page*/
+body {background-color: black;} /* Website background color*/
 h1 {color: white;}
 h2 {color: blue; Text-Align: center;}
 h3 {color: white; Text-Align: center;}
-p {color: red;}
-dd{color: white;} 
-li{color:#7fff00;Text-Align:center;}
+dd{color: white;}
+li{color:red;}
 a{color:#e5e5f2;}
+.Terms{--border-top-style: solid; border-bottom-style: solid; color:blue;} /* Terms Page Text */
+.bottomnav{Text-Align:center; padding:50px; text-shadow: 2px 2px 5px red; font-size:2vw;} /* Navigation at the bottom of the page */
+.MainP{color: red;} /* Main Page Text */
+.Pictures{text-align:center; color:white; border-bottom-style: solid; padding-bottom:50px;} /* Pictures Page Text */
+.UP{color: green;} /* Drag Racing 101 Text*/
+.Links{color: white;}

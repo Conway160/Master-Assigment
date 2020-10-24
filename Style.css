@@ -6,6 +6,7 @@ h3 {color: white; Text-Align: center;}
 dd{color: white;}
 li{color:red;}
 a{color:#e5e5f2;}
+p{color: white;}
 .Terms{--border-top-style: solid; border-bottom-style: solid; color:blue;} /* Terms Page Text */
 .bottomnav{Text-Align:center; padding:50px; text-shadow: 2px 2px 5px red; font-size:2vw;} /* Navigation at the bottom of the page */
 .MainP{color: red;} /* Main Page Text */
